@@ -1,13 +1,14 @@
 word_list = [
-    "python", "java", "desenvolvimento", "algoritmo", "computador", "internet", "rede", "software", "hardware", "tecnologia",
-    "futebol", "musica", "livro", "cachorro", "gato", "carro", "escola", "universidade", "familia", "amizade",
-    "pizza", "hamburguer", "escrita", "leitura", "esporte", "pintura", "arte", "pessoa", "planeta", "estrela",
-    "universo", "cidade", "luz", "som", "chuva", "floresta", "mar", "campo", "flor", "sol", "lua",
-    "nuvem", "montanha", "oceano", "rio", "caminho", "estrada", "livraria", "escritor", "arvore", "quadro",
-    "camera", "foto", "chave", "televisao", "celular", "computacao", "jogo", "festa", "amigos", "familia",
-    "alegria", "tristeza", "forca", "jogo", "tigre", "leao", "urso", "passaro", "floresta", "sombra",
-    "amigo", "amiga", "vitoria", "derrota", "historia", "cultura", "teatro", "cinema", "musico", "cantor",
-    "canto", "banda", "som", "sinfonia", "piano", "violao", "guitarra", "bateria", "harmonia", "compasso",
-    "melodia", "coro", "flauta", "clarinete", "saxofone", "trompete", "triangulo", "conductor", "orquestra", "sinfonica",
-    "teatro", "espetaculo", "drama", "comedia", "ator", "atriz", "encenacao", "roteiro", "cenografia", "figurino"
+    "programacao", "algoritmo", "variavel", "constante", "funcao", "classe", "objeto", "heranca", 
+    "polimorfismo", "encapsulamento", "abstracao", "compilador", "interpretador", "depuracao", 
+    "biblioteca", "framework", "metodo", "propriedade", "interface", "modulo", "pacote", "sintaxe", 
+    "compilacao", "instancia", "atributo", "parametro", "tipagem", "estrutura", "dados", "array", 
+    "vetor", "pilha", "fila", "lista", "dicionario", "mapa", "conjunto", "recursao", "debug", 
+    "teste", "documentacao", "desenvolvimento", "frontend", "backend", "fullstack", "devops", 
+    "banco", "dados", "consulta", "query", "sql", "nosql", "api", "rest", "graphql", "json", 
+    "xml", "codigo", "fonte", "github", "gitlab", "bitbucket", "versao", "controle", "merge", 
+    "commit", "branch", "pullrequest", "hotfix", "bug", "refatoracao", "padrao", "projeto", 
+    "designpattern", "mvc", "oop", "ide", "editor", "sublime", "vscode", "intellij", "eclipse", 
+    "terminal", "linha", "comando", "script", "automacao", "shell", "docker", "kubernetes", 
+    "deploy", "container", "nuvem", "servidor", "cliente", "rede", "protocolo", "http"
 ]
